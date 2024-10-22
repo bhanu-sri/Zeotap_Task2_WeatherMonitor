@@ -13,8 +13,8 @@ This is a real-time weather monitoring system that retrieves weather data from O
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-monitoring-system.git
-cd weather-monitoring-system
+git clone https://github.com/bhanu-sri/Zeotap_Task2_WeatherMonitor.git
+cd Zeotap_Task2_WeatherMonitor
 
 2. Install dependencies:
 pip install -r requirements.txt
