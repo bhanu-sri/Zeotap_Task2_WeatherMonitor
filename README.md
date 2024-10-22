@@ -27,7 +27,7 @@ docker-compose up
 5. Run the app:
 python app.py
 
-## Features
+**## Features**
 Real-time weather data retrieval for Indian metros.
 Daily weather summaries with average, max, and min temperatures.
 Threshold alerts for high temperatures.
